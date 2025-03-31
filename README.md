@@ -1,3 +1,2 @@
-**Page Size *(Bytes)*: 418**
-
-**Page Size *(KB)*: 0.41**
+# My page
+Some links and some about me ;)
