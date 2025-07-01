@@ -1,0 +1,87 @@
+Soo, i REALLY can't explain very well hat happened,
+so heres an e-mail i wrote (while nervous, of course):
+
+ --0000000000003a661d0638d40a53
+ Content-Type: text/plain; charset="UTF-8"
+ Content-Transfer-Encoding: quoted-printable
+
+ Hi, ummm, i have bad news. 8| 8(
+
+ So basically I made a webcrawler and got banned from the internet,
+ basically XDDDD
+
+ I made a test webcrawler/webscrapper to grab [[OPEN]] Directory Listings
+ files from Apache servers [[INDEXED]] ON GOOGLE.
+ I think you can see where this is going, right? For some reason, I've been
+ banned/blacklisted from 3 lists, and now, after hours of countless emails,
+ it's down to just one list.
+
+ Yes, I was an idiot for not using a VPN or Proxy for this, but do you have
+ any advice for me?
+
+Yes, i got IP Banned for being a stupid and creating a webcrawler
+that ignores robots.txt
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA WHYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+AM I SOOOOOOOOOOOOOOOO DUUUUUUUUUUMMMMMMMMBBBBBBBB?????????????
+GIARHGÇOREUIGHRAEUGHFJKHGLFKSJGHLFKSJGHFLSGKJFHSGKFJSHGLFKJSDGHLJKDGH
+
+Anyways, i've sended that em-ail to shy (shy.rocks), im don't actually
+am a close friend of shy, i just sended an e-mail because i wanted to
+download a full databesa of cat images.
+
+For context, heres (more) e-mails.
+
+Me: Hi, I am currently interested in having all of your bot cat photos for archival and cuteness purposes. Is there any way you can upload it to a hosting service for me please?
+
+shy <shy@shy.rocks> via gmail.com : i intend to release full archive on archive.org at some point, but it's huge (117 gigabytes) so i have to wait a month or so since i'm already over my isp's data limit and it'll take forever lol
+
+Me: Awesome! :D
+To be honest, i have a brand new 500GB HDD and i would seed all that via torrenting if you post on somewhere.
+Also, could you provide a list of where you exactly got such a big database? Like some obscure open FTP server/HTTP directory listings?
+
+Shy: i don’t actually remember all the sources, id usually just find a cat website and write a script to scrape the entirety of it
+
+some filenames are named after the source, others kept as the original filename, and it’s far too late to go back and fix it so i can’t really attribute all of the cats to their original sources lol
+
+a lot of it came from searching for cat websites and guessing domains of ones, sometimes really obscure sites just have thousands of images, and sometimes id just google “index of /cats” to find random directory listings and things like that
+
+a lot of it also comes from previously existing archives and datasets, probably about a third of it. technically this all means that this isn’t really freely licensed or anything since i just scraped as many cats from as many places as possible
+
+off the top of my head, i got many cats from these sources:
+
+thecatapi
+cataas
+stuffonmycat (defunct i think)
+https://catoftheday.com
+http://www.catsthatlooklikehitler.com/cgi-bin/seigmiaow.pl
+wikimedia cats
+cat subreddits
+random cat twitter/bsky accounts
+random old youtube videos with cats
+
+there’s definitely more im not remembering, and many batches that i simply don’t know where came from, like someone on twitter dmed me a zip file of like 80k from various sources, and a lot of them came from random archives and datasets i found online just by searching for “cat photos archive” and stuff like that years ago
+
+anyways ill do an archive.org upload and torrent at some point (whenever my isp isn’t overcharging me)
+
+Me: Interesting! :D
+I remember doing something similar in a school project about webcrawlers/webscrapping with (also) cat images, but it was on a smaller scale and I probably lost it on my old computer. :)
+
+Me: Hi, ummm, i have bad news. 8| 8(
+
+So basically I made a webcrawler and got banned from the internet, basically XDDDD
+
+I made a test webcrawler/webscrapper to grab [[OPEN]] Directory Listings files from Apache servers [[INDEXED]] ON GOOGLE.
+I think you can see where this is going, right? For some reason, I've been banned/blacklisted from 3 lists, and now, after hours of countless emails, it's down to just one list.
+
+Yes, I was an idiot for not using a VPN or Proxy for this, but do you have any advice for me?
+
+So, yeah, i guess im fucked up to be honest, at least i can stil acess some
+websites that ignores those "bot ips" list.
+
+Also, SOMEHOW I GOT IP BANNED FROM KYM (know your meme)
+
+Yes, as i've said before, im 100% it was due it (maybe) using some kind
+of "bot ip list".
+
+Anyways, goodbye yall! :D
